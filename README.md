@@ -18,3 +18,4 @@ Allows adding, updating, deleting, and viewing items with a GUI interface.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
+ git clone <repo-url>
